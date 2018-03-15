@@ -2,8 +2,7 @@
 
 def display_board
     
-    String = [" ", " "," "," "," "," "," "," "," "]
+    row = [" ", " "," "]
     
     
     
-  end
